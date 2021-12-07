@@ -60,7 +60,7 @@
 - [Ways to create rounded image or image avatar in flutter](https://medium.com/@saadatali0202/ways-to-create-rounded-image-or-image-avatar-in-flutter-f69534cfd4cc?source=rss-fd74d640aa52------2)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://medium.com/@saadatali0202)
 
 ---
 
