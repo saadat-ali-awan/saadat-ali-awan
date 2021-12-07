@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Saadat123456)
+![](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
 
 ### Hi there, I'm Saadat Ali 👋 
 
