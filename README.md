@@ -47,6 +47,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10)](https://github.com/Saadat123456)
 
+
+### :zap: GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/Saadat123456)
+
 ---
 
 ### 📕 Latest Blog Posts
@@ -69,9 +73,6 @@
 4. 🎉 Merged PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
 5. 💪 Opened PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
 <!--END_SECTION:activity-->
-
-### :zap: GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/Saadat123456)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
