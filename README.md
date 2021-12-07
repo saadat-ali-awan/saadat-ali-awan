@@ -18,6 +18,7 @@
 [<img align="center" alt="codeSTACKr | Twitter" width="32px" margin="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="codeSTACKr | LinkedIn" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="codeSTACKr | Instagram" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+ [<img align="center" alt="codeSTACKr | Instagram" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 
 
 <br />
@@ -81,3 +82,4 @@
 [twitter]: https://twitter.com/Saadat02021999
 [instagram]: https://instagram.com/saadatali313
 [linkedin]: https://www.linkedin.com/in/saadatali1999/
+[whatsapp]: +923365910676
