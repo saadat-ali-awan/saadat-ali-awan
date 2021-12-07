@@ -56,9 +56,8 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
+### :zap: Recent GitHub Activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/Saadat123456/github-slideshow/pull/3) in [Saadat123456/github-slideshow](https://github.com/Saadat123456/github-slideshow)
 2. 💪 Opened PR [#3](https://github.com/Saadat123456/github-slideshow/pull/3) in [Saadat123456/github-slideshow](https://github.com/Saadat123456/github-slideshow)
@@ -67,15 +66,8 @@
 5. 💪 Opened PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</details>
+### :zap: GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
