@@ -43,7 +43,7 @@
 <br />
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456)](https://github.com/Saadat123456)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&layout=compact)](https://github.com/Saadat123456)
 
 ---
 
