@@ -74,7 +74,7 @@
 5. 💪 Opened PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
 <!--END_SECTION:activity-->
 
-[website]: https://codeSTACKr.com
+[website]: https://jazbaservices.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/Saadat02021999
 [youtube]: https://youtube.com/codeSTACKr
