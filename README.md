@@ -60,6 +60,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#3](https://github.com/Saadat123456/github-slideshow/pull/3) in [Saadat123456/github-slideshow](https://github.com/Saadat123456/github-slideshow)
+2. 💪 Opened PR [#3](https://github.com/Saadat123456/github-slideshow/pull/3) in [Saadat123456/github-slideshow](https://github.com/Saadat123456/github-slideshow)
+3. ❗️ Closed issue [#1](https://github.com/Saadat123456/github-slideshow/issues/1) in [Saadat123456/github-slideshow](https://github.com/Saadat123456/github-slideshow)
+4. 🎉 Merged PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
+5. 💪 Opened PR [#3](https://github.com/Saadat123456/mysite.github.io/pull/3) in [Saadat123456/mysite.github.io](https://github.com/Saadat123456/mysite.github.io)
 <!--END_SECTION:activity-->
 
 </details>
