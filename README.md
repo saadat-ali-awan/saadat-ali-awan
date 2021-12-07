@@ -1,7 +1,7 @@
 ### Hi there, I'm Saadat Ali 👋 
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%jazbaservices.com)](https://jazbaservices.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat123456)
 
 ## I'm a Developer!!
 
@@ -76,7 +76,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
+[twitter]: https://twitter.com/Saadat02021999
 [youtube]: https://youtube.com/codeSTACKr
 [instagram]: https://instagram.com/codeSTACKr
 [linkedin]: https://linkedin.com/in/codeSTACKr
