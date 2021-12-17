@@ -50,9 +50,9 @@ I am:
 <br />
 
 ---
-
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10)](https://github.com/Saadat123456)
-
+</div>
 
 ### :zap: GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/Saadat123456)
