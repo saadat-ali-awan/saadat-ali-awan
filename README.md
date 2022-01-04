@@ -75,11 +75,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/Saadat123456/Hello-Microverse/issues/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
+1. 🎉 Merged PR [#1](https://github.com/Saadat123456/Hello-Microverse/pull/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
 2. 🗣 Commented on [#1](https://github.com/Saadat123456/Hello-Microverse/issues/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
-3. 💪 Opened PR [#1](https://github.com/Saadat123456/Hello-Microverse/pull/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
-4. 🎉 Merged PR [#4](https://github.com/Saadat123456/Hello-Microverse/pull/4) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
-5. 💪 Opened PR [#4](https://github.com/Saadat123456/Hello-Microverse/pull/4) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
+3. 🗣 Commented on [#1](https://github.com/Saadat123456/Hello-Microverse/issues/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
+4. 🗣 Commented on [#1](https://github.com/Saadat123456/Hello-Microverse/issues/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
+5. 💪 Opened PR [#1](https://github.com/Saadat123456/Hello-Microverse/pull/1) in [Saadat123456/Hello-Microverse](https://github.com/Saadat123456/Hello-Microverse)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
