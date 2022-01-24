@@ -75,11 +75,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#13](https://github.com/miftah1991/SetupAndMobileVersionSkeleton/issues/13) in [miftah1991/SetupAndMobileVersionSkeleton](https://github.com/miftah1991/SetupAndMobileVersionSkeleton)
-2. ❗️ Opened issue [#10](https://github.com/JuanLPalacios/JuanLPalacios.github.io/issues/10) in [JuanLPalacios/JuanLPalacios.github.io](https://github.com/JuanLPalacios/JuanLPalacios.github.io)
-3. 💪 Opened PR [#1](https://github.com/Saadat123456/Portfolio-Bootstrap/pull/1) in [Saadat123456/Portfolio-Bootstrap](https://github.com/Saadat123456/Portfolio-Bootstrap)
-4. 🎉 Merged PR [#12](https://github.com/Saadat123456/Portfolio/pull/12) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
-5. 💪 Opened PR [#12](https://github.com/Saadat123456/Portfolio/pull/12) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+1. 💪 Opened PR [#14](https://github.com/Saadat123456/Portfolio/pull/14) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+2. ❗️ Opened issue [#13](https://github.com/miftah1991/SetupAndMobileVersionSkeleton/issues/13) in [miftah1991/SetupAndMobileVersionSkeleton](https://github.com/miftah1991/SetupAndMobileVersionSkeleton)
+3. ❗️ Opened issue [#10](https://github.com/JuanLPalacios/JuanLPalacios.github.io/issues/10) in [JuanLPalacios/JuanLPalacios.github.io](https://github.com/JuanLPalacios/JuanLPalacios.github.io)
+4. 💪 Opened PR [#1](https://github.com/Saadat123456/Portfolio-Bootstrap/pull/1) in [Saadat123456/Portfolio-Bootstrap](https://github.com/Saadat123456/Portfolio-Bootstrap)
+5. 🎉 Merged PR [#12](https://github.com/Saadat123456/Portfolio/pull/12) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
