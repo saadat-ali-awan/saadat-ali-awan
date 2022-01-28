@@ -75,11 +75,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/Saadat123456/Portfolio/pull/15) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
-2. 🎉 Merged PR [#16](https://github.com/Saadat123456/Portfolio/pull/16) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
-3. 🎉 Merged PR [#17](https://github.com/Saadat123456/Portfolio/pull/17) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
-4. 💪 Opened PR [#17](https://github.com/Saadat123456/Portfolio/pull/17) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
-5. 💪 Opened PR [#16](https://github.com/Saadat123456/Portfolio/pull/16) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+1. ❗️ Opened issue [#15](https://github.com/JuanLPalacios/JuanLPalacios.github.io/issues/15) in [JuanLPalacios/JuanLPalacios.github.io](https://github.com/JuanLPalacios/JuanLPalacios.github.io)
+2. 🎉 Merged PR [#15](https://github.com/Saadat123456/Portfolio/pull/15) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+3. 🎉 Merged PR [#16](https://github.com/Saadat123456/Portfolio/pull/16) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+4. 🎉 Merged PR [#17](https://github.com/Saadat123456/Portfolio/pull/17) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
+5. 💪 Opened PR [#17](https://github.com/Saadat123456/Portfolio/pull/17) in [Saadat123456/Portfolio](https://github.com/Saadat123456/Portfolio)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
