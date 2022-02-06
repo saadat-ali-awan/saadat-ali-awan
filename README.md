@@ -75,11 +75,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Saadat123456/CapstoneProject/pull/2) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
-2. ❌ Reopened PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
-3. ❌ Closed PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
-4. 💪 Opened PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
-5. 💪 Opened PR [#1](https://github.com/Saadat123456/Capstone-Project-Conference-page/pull/1) in [Saadat123456/Capstone-Project-Conference-page](https://github.com/Saadat123456/Capstone-Project-Conference-page)
+1. 🎉 Merged PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
+2. 💪 Opened PR [#2](https://github.com/Saadat123456/CapstoneProject/pull/2) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
+3. ❌ Reopened PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
+4. ❌ Closed PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
+5. 💪 Opened PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
