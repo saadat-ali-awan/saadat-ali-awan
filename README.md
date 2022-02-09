@@ -75,11 +75,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saadat123456/JOCs/pull/1) in [Saadat123456/JOCs](https://github.com/Saadat123456/JOCs)
-2. 💪 Opened PR [#1](https://github.com/Saadat123456/JOCs/pull/1) in [Saadat123456/JOCs](https://github.com/Saadat123456/JOCs)
-3. 🎉 Merged PR [#3](https://github.com/AlejandroNeira98/Awesome-books/pull/3) in [AlejandroNeira98/Awesome-books](https://github.com/AlejandroNeira98/Awesome-books)
-4. 🎉 Merged PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
-5. 💪 Opened PR [#2](https://github.com/Saadat123456/CapstoneProject/pull/2) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
+1. 🎉 Merged PR [#4](https://github.com/AlejandroNeira98/Awesome-books/pull/4) in [AlejandroNeira98/Awesome-books](https://github.com/AlejandroNeira98/Awesome-books)
+2. 🎉 Merged PR [#1](https://github.com/Saadat123456/JOCs/pull/1) in [Saadat123456/JOCs](https://github.com/Saadat123456/JOCs)
+3. 💪 Opened PR [#1](https://github.com/Saadat123456/JOCs/pull/1) in [Saadat123456/JOCs](https://github.com/Saadat123456/JOCs)
+4. 🎉 Merged PR [#3](https://github.com/AlejandroNeira98/Awesome-books/pull/3) in [AlejandroNeira98/Awesome-books](https://github.com/AlejandroNeira98/Awesome-books)
+5. 🎉 Merged PR [#1](https://github.com/Saadat123456/CapstoneProject/pull/1) in [Saadat123456/CapstoneProject](https://github.com/Saadat123456/CapstoneProject)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
