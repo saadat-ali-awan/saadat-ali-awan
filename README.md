@@ -1,6 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
+<div style="width: 100%;">
+ <img src='banner1.png' alt='banner' style="width: 100%;"/>
+</div>
 
-### Hi there, I'm Saadat Ali 👋 
+<h3 align="center" >Hi there 👋, I'm Saadat Ali</h3>
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
@@ -11,8 +14,7 @@ I am:
 - ✔ Experienced Android Developer
 - ✔ Looking For Jobs in remote space
 
-<div align="center" >
- <h1><strong style="margin: 24px">Connect with me:</strong></h1>
+### Connect with me:
 
 [<img align="center" alt="codeSTACKr.com" width="32px" margin="12px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="center" alt="codeSTACKr | Twitter" width="32px" margin="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -24,8 +26,15 @@ I am:
 
 
 <br />
- </div>
 
+### `💼 Technical Skills`
+<br/>
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 <div align="center" >
  <h1><strong style="margin: 24px">Languages and Tools</strong></h1>
 
