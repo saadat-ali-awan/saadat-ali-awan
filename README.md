@@ -84,11 +84,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/Saadat123456/To-do-List/issues/6) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-2. ❗️ Opened issue [#5](https://github.com/Saadat123456/To-do-List/issues/5) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-3. 🎉 Merged PR [#3](https://github.com/Saadat123456/To-do-List/pull/3) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-4. 🎉 Merged PR [#2](https://github.com/Saadat123456/To-do-List/pull/2) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-5. 💪 Opened PR [#3](https://github.com/Saadat123456/To-do-List/pull/3) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+1. ❗️ Opened issue [#7](https://github.com/Saadat123456/To-do-List/issues/7) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+2. ❗️ Opened issue [#6](https://github.com/Saadat123456/To-do-List/issues/6) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+3. ❗️ Opened issue [#5](https://github.com/Saadat123456/To-do-List/issues/5) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+4. 🎉 Merged PR [#3](https://github.com/Saadat123456/To-do-List/pull/3) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+5. 🎉 Merged PR [#2](https://github.com/Saadat123456/To-do-List/pull/2) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
