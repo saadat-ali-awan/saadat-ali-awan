@@ -84,11 +84,11 @@ I am:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/Saadat123456/todolist-best-practices/pull/1) in [Saadat123456/todolist-best-practices](https://github.com/Saadat123456/todolist-best-practices)
-2. ❗️ Opened issue [#6](https://github.com/fernando-silvabr66/to-do-list/issues/6) in [fernando-silvabr66/to-do-list](https://github.com/fernando-silvabr66/to-do-list)
-3. ❗️ Opened issue [#7](https://github.com/Saadat123456/To-do-List/issues/7) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-4. ❗️ Opened issue [#6](https://github.com/Saadat123456/To-do-List/issues/6) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
-5. ❗️ Opened issue [#5](https://github.com/Saadat123456/To-do-List/issues/5) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+1. 🎉 Merged PR [#8](https://github.com/Saadat123456/To-do-List/pull/8) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+2. 💪 Opened PR [#8](https://github.com/Saadat123456/To-do-List/pull/8) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
+3. 💪 Opened PR [#1](https://github.com/Saadat123456/todolist-best-practices/pull/1) in [Saadat123456/todolist-best-practices](https://github.com/Saadat123456/todolist-best-practices)
+4. ❗️ Opened issue [#6](https://github.com/fernando-silvabr66/to-do-list/issues/6) in [fernando-silvabr66/to-do-list](https://github.com/fernando-silvabr66/to-do-list)
+5. ❗️ Opened issue [#7](https://github.com/Saadat123456/To-do-List/issues/7) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
 <!--END_SECTION:activity-->
 
 [website]: https://jazbaservices.com
