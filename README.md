@@ -35,7 +35,7 @@
 ![Webpack](https://img.shields.io/badge/webpack-3670A0?style=for-the-badge&logo=webpack)
 
 ### `📝 Tools`
-![Webpack](https://img.shields.io/badge/?logo=visualstudiocode)
+![VsCode](https://img.shields.io/badge/Vs%20Code-%ffffffff?style=plastic&logo=visualstudiocode&logoColor=007ACC)
 
 
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -58,13 +58,13 @@
 <br />
 
 ---
-<div align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10)](https://github.com/Saadat123456)
-
-</div>
 
 ### :zap: GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadat123456&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FF6347&fire=7D5EA9&sideNums=7D5EA9&currStreakNum=7D5EA9&currStreakLabel=FF6347&sideLabels=FF6347&border=7D5EA9&dates=271D35)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10&layout=compact)](https://github.com/Saadat123456)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/Saadat123456)
 
 ---
