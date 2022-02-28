@@ -1,17 +1,13 @@
-![](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
+# Hey, I'm Saadat 👋
+![Profile Views](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
 <div style="width: 100%;">
  <img src='banner1.png' alt='banner' style="width: 100%;"/>
 </div>
 
-<h3 align="center" >Hi there 👋, I'm Saadat Ali</h3>
-
-[![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
-
-## Computer Engineer!!
-I am:
+## Computer Engineer!
 - ✔ Machine Learning Expert 
 - ✔ Experienced Android Developer
+- ✔ Full Stack Web Developer
 - ✔ Looking For Jobs in remote space
 
 ### Connect with me:
@@ -23,7 +19,7 @@ I am:
  [<img align="center" alt="codeSTACKr | WhatsApp" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
  [<img align="center" alt="codeSTACKr | Telegram" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
  [<img align="center" alt="codeSTACKr | Facebook" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-
+![Instagram](https://img.shields.io/badge/instagram-3670A0?style=?style=social&logo=instagram)
 
 <br />
 
@@ -31,12 +27,16 @@ I am:
 <br/>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-<div align="center" >
- <h1><strong style="margin: 24px">Languages and Tools</strong></h1>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-3670A0?style=for-the-badge&logo=dart&logoColor=#045697)
+![Webpack](https://img.shields.io/badge/webpack-3670A0?style=for-the-badge&logo=webpack)
+
+### `📝 Tools`
+![Webpack](https://img.shields.io/badge/?logo=visualstudiocode)
+
 
 <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" />
@@ -53,7 +53,6 @@ I am:
 <img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
- </div>
  
 <br />
 <br />
@@ -90,6 +89,9 @@ I am:
 4. 💪 Opened PR [#2](https://github.com/Saadat123456/To-do-List/pull/2) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
 5. 🎉 Merged PR [#1](https://github.com/Saadat123456/To-do-List/pull/1) in [Saadat123456/To-do-List](https://github.com/Saadat123456/To-do-List)
 <!--END_SECTION:activity-->
+
+[![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
 
 [website]: https://jazbaservices.com
 [course]: http://vsCodeHero.com
