@@ -83,11 +83,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#12](https://github.com/JuanLPalacios/todo-list/issues/12) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
-2. 🎉 Merged PR [#4](https://github.com/Saadat123456/Try-Gitflow/pull/4) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
-3. 🎉 Merged PR [#5](https://github.com/Saadat123456/Try-Gitflow/pull/5) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
-4. 💪 Opened PR [#5](https://github.com/Saadat123456/Try-Gitflow/pull/5) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
-5. 💪 Opened PR [#4](https://github.com/Saadat123456/Try-Gitflow/pull/4) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
+1. 💪 Opened PR [#1](https://github.com/Saadat123456/Leaderboard/pull/1) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+2. ❗️ Opened issue [#12](https://github.com/JuanLPalacios/todo-list/issues/12) in [JuanLPalacios/todo-list](https://github.com/JuanLPalacios/todo-list)
+3. 🎉 Merged PR [#4](https://github.com/Saadat123456/Try-Gitflow/pull/4) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
+4. 🎉 Merged PR [#5](https://github.com/Saadat123456/Try-Gitflow/pull/5) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
+5. 💪 Opened PR [#5](https://github.com/Saadat123456/Try-Gitflow/pull/5) in [Saadat123456/Try-Gitflow](https://github.com/Saadat123456/Try-Gitflow)
 <!--END_SECTION:activity-->
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
