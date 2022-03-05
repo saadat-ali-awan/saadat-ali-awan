@@ -83,11 +83,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Saadat123456/Leaderboard/pull/4) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-2. 🎉 Merged PR [#2](https://github.com/Saadat123456/Leaderboard/pull/2) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-3. 💪 Opened PR [#2](https://github.com/Saadat123456/Leaderboard/pull/2) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-4. 🎉 Merged PR [#1](https://github.com/Saadat123456/Leaderboard/pull/1) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-5. 💪 Opened PR [#1](https://github.com/Saadat123456/Leaderboard/pull/1) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+1. 🎉 Merged PR [#4](https://github.com/Saadat123456/Leaderboard/pull/4) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+2. 💪 Opened PR [#4](https://github.com/Saadat123456/Leaderboard/pull/4) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+3. 🎉 Merged PR [#2](https://github.com/Saadat123456/Leaderboard/pull/2) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+4. 💪 Opened PR [#2](https://github.com/Saadat123456/Leaderboard/pull/2) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+5. 🎉 Merged PR [#1](https://github.com/Saadat123456/Leaderboard/pull/1) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
 <!--END_SECTION:activity-->
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
