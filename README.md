@@ -65,6 +65,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10&layout=compact)](https://github.com/Saadat123456)
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?Saadat123456" frameborder="0"></iframe>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456)](https://github.com/Saadat123456)
 
 ---
