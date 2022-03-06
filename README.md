@@ -61,7 +61,7 @@
 
 ### :zap: GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Saadat123456&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FF6347&fire=7D5EA9&sideNums=7D5EA9&currStreakNum=7D5EA9&currStreakLabel=FF6347&sideLabels=FF6347&border=7D5EA9&dates=271D35&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://githubstreaksaadat.herokuapp.com/?user=Saadat123456&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FF6347&fire=7D5EA9&sideNums=7D5EA9&currStreakNum=7D5EA9&currStreakLabel=FF6347&sideLabels=FF6347&border=7D5EA9&dates=271D35&type=svg)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/Saadat123456)
 
