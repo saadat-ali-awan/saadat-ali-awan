@@ -65,6 +65,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Love%20To%20Play%20With&border_color=7D5EA9&border_radius=10)](https://github.com/Saadat123456)
 
+[![GitHub Streak](https://githubstreaksaadat.herokuapp.com/?user=Saadat123456&theme=radical&date_format=M%20j%5B%2C%20Y%5D&background=FFFFFF&ring=FF6347&fire=7D5EA9&sideNums=7D5EA9&currStreakNum=7D5EA9&currStreakLabel=FF6347&sideLabels=FF6347&border=7D5EA9&dates=271D35&type=svg)](https://git.io/streak-stats)
+
 ---
 
 ### 📕 Latest Blog Posts
