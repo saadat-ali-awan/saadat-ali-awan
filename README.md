@@ -83,11 +83,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#45](https://github.com/Saadat123456/Amazing-Cats-2022/pull/45) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
-2. ❗️ Opened issue [#23](https://github.com/fbclh/js-capstone/issues/23) in [fbclh/js-capstone](https://github.com/fbclh/js-capstone)
-3. ❗️ Closed issue [#39](https://github.com/Saadat123456/Amazing-Cats-2022/issues/39) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
-4. 🗣 Commented on [#39](https://github.com/Saadat123456/Amazing-Cats-2022/issues/39) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
-5. ❗️ Closed issue [#40](https://github.com/Saadat123456/Amazing-Cats-2022/issues/40) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+1. 🎉 Merged PR [#45](https://github.com/Saadat123456/Amazing-Cats-2022/pull/45) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+2. ❗️ Closed issue [#37](https://github.com/Saadat123456/Amazing-Cats-2022/issues/37) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+3. 💪 Opened PR [#45](https://github.com/Saadat123456/Amazing-Cats-2022/pull/45) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+4. ❗️ Opened issue [#23](https://github.com/fbclh/js-capstone/issues/23) in [fbclh/js-capstone](https://github.com/fbclh/js-capstone)
+5. ❗️ Closed issue [#39](https://github.com/Saadat123456/Amazing-Cats-2022/issues/39) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
 <!--END_SECTION:activity-->
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
