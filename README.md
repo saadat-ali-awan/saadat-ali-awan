@@ -83,11 +83,11 @@
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/Saadat123456/Math-Magicians/pull/2) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
-2. 💪 Opened PR [#1](https://github.com/Saadat123456/Math-Magicians/pull/1) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
-3. 🎉 Merged PR [#58](https://github.com/Saadat123456/Amazing-Cats-2022/pull/58) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
-4. ❗️ Closed issue [#57](https://github.com/Saadat123456/Amazing-Cats-2022/issues/57) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
-5. 🗣 Commented on [#57](https://github.com/Saadat123456/Amazing-Cats-2022/issues/57) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+1. ❌ Closed PR [#1](https://github.com/Saadat123456/Math-Magicians/pull/1) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+2. 💪 Opened PR [#2](https://github.com/Saadat123456/Math-Magicians/pull/2) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+3. 💪 Opened PR [#1](https://github.com/Saadat123456/Math-Magicians/pull/1) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+4. 🎉 Merged PR [#58](https://github.com/Saadat123456/Amazing-Cats-2022/pull/58) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
+5. ❗️ Closed issue [#57](https://github.com/Saadat123456/Amazing-Cats-2022/issues/57) in [Saadat123456/Amazing-Cats-2022](https://github.com/Saadat123456/Amazing-Cats-2022)
 <!--END_SECTION:activity-->
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
