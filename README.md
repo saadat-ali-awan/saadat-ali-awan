@@ -4,22 +4,34 @@
  <img src='banner1.png' alt='banner' style="width: 100%;"/>
 </div>
 
-## Computer Engineer!
-- ✔ Machine Learning Expert 
-- ✔ Experienced Android Developer
-- ✔ Full Stack Web Developer
-- ✔ Looking For Jobs in remote space
+## Who's me :thinking:?
+Let me write quickly about myself without bragging:
 
-### Connect with me:
+<img align='right' width='200' src='./images/write.jpeg' alt='Writer Image'>
 
-[<img align="center" alt="codeSTACKr.com" width="32px" margin="12px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="codeSTACKr | Twitter" width="32px" margin="12px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" alt="codeSTACKr | LinkedIn" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="codeSTACKr | Instagram" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
- [<img align="center" alt="codeSTACKr | WhatsApp" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
- [<img align="center" alt="codeSTACKr | Telegram" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
- [<img align="center" alt="codeSTACKr | Facebook" width="32px" margin="12px"  src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-![Instagram](https://img.shields.io/badge/instagram-3670A0?style=?style=social&logo=instagram)
+- 🥇 Computer Engineer by Degree and Software Developer by passion.
+- 🔮 Organize Web Front End with React.js
+- 🎨 Enjoy designing applications using Flutter
+- 📱 Android Developer (JAVA/Kotlin)
+- 🥽 Enthusiast in Machine Learning and Artificial Intelligence
+- ✨ Full-time coder and part-time adventure seeker
+- 🤤 Can watch cricket test match whole day
+- 🔑 Love Blockchain especially Etherium and Vechain
+
+ ## Tech Stack :hammer_and_wrench::
+ - 👉 React.js | Redux | node.js | SQL | Mongo
+ - 👉 Android | Flutter | Java/Kotlin | SQLite
+ - 👉 Unity | C# | node.js
+
+## Connect with me 🤝:
+[<img src='./images/gmailN.svg' width='38px'/>][gmail]
+[<img src='./images/Facebook.svg' width='38px'/>][facebook]
+[<img src='./images/Instagram.svg' width='38px'/>][instagram]
+[<img src='./images/LinkedIN.svg' width='38px'/>][linkedin]
+[<img src='./images/Skype.svg' width='38px'/>][skype]
+[<img src='./images/Telegram.svg' width='38px'/>][telegram]
+[<img src='./images/Twitter.svg' width='38px'/>][twitter]
+[<img src='./images/WhatsApp.svg' width='38px'/>][whatsapp]
 
 <br />
 
@@ -101,3 +113,5 @@
 [whatsapp]: https://api.whatsapp.com/send?phone=923365910676
 [telegram]: https://t.me/saadat_malik
 [facebook]: https://www.facebook.com/saadat.malik.1999/
+[gmail]: mailto:saadatali0202@gmail.com
+[skype]: https://join.skype.com/invite/yDhM4AwSNYQP
