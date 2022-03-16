@@ -59,11 +59,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Saadat123456/Leaderboard/pull/5) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-2. 💪 Opened PR [#5](https://github.com/Saadat123456/Leaderboard/pull/5) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-3. 🎉 Merged PR [#4](https://github.com/Saadat123456/Leaderboard/pull/4) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-4. 💪 Opened PR [#4](https://github.com/Saadat123456/Leaderboard/pull/4) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
-5. 🎉 Merged PR [#2](https://github.com/Saadat123456/Leaderboard/pull/2) in [Saadat123456/Leaderboard](https://github.com/Saadat123456/Leaderboard)
+1. 🎉 Merged PR [#5](https://github.com/Saadat123456/Math-Magicians/pull/5) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+2. 💪 Opened PR [#5](https://github.com/Saadat123456/Math-Magicians/pull/5) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+3. 🎉 Merged PR [#4](https://github.com/Saadat123456/Math-Magicians/pull/4) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+4. 💪 Opened PR [#4](https://github.com/Saadat123456/Math-Magicians/pull/4) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+5. 🎉 Merged PR [#3](https://github.com/Saadat123456/Math-Magicians/pull/3) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
 <!--END_SECTION:activity-->
 
 [![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
