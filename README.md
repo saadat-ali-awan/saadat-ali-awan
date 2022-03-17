@@ -67,10 +67,10 @@ Let me write quickly about myself without bragging:
 5. 🎉 Merged PR [#3](https://github.com/Saadat123456/Math-Magicians/pull/3) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
 <!--END_SECTION:activity-->
 
-[![Website](https://img.shields.io/website?label=jazbaservices.com&style=for-the-badge&url=https%3A%2F%2Fjazbaservices.com)](https://jazbaservices.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
+# Point To Ponder 
+<div align='center'><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></div>
 
-<center><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></center>
+## Let's Share thoughts on [![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
 
 [website]: https://jazbaservices.com
 [course]: http://vsCodeHero.com
