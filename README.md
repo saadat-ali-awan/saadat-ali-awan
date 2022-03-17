@@ -2,7 +2,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
 <div style="width: 100%;">
  <img src='images/banner2.svg' alt='banner' style="width: 100%;"/>
- <svg href='images/banner2.svg'></svg>
 </div>
 
 ## Who's me :thinking:?
