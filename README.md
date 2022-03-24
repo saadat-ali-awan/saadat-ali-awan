@@ -60,11 +60,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Saadat123456/Math-Magicians/pull/7) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
-2. 🎉 Merged PR [#6](https://github.com/Saadat123456/Math-Magicians/pull/6) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
-3. 💪 Opened PR [#6](https://github.com/Saadat123456/Math-Magicians/pull/6) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
-4. 💪 Opened PR [#1](https://github.com/Saadat123456/react-todo-app/pull/1) in [Saadat123456/react-todo-app](https://github.com/Saadat123456/react-todo-app)
-5. 🎉 Merged PR [#2](https://github.com/Saadat123456/JOCs/pull/2) in [Saadat123456/JOCs](https://github.com/Saadat123456/JOCs)
+1. 💪 Opened PR [#8](https://github.com/Saadat123456/Math-Magicians/pull/8) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+2. 🎉 Merged PR [#7](https://github.com/Saadat123456/Math-Magicians/pull/7) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+3. 🎉 Merged PR [#6](https://github.com/Saadat123456/Math-Magicians/pull/6) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+4. 💪 Opened PR [#6](https://github.com/Saadat123456/Math-Magicians/pull/6) in [Saadat123456/Math-Magicians](https://github.com/Saadat123456/Math-Magicians)
+5. 💪 Opened PR [#1](https://github.com/Saadat123456/react-todo-app/pull/1) in [Saadat123456/react-todo-app](https://github.com/Saadat123456/react-todo-app)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
