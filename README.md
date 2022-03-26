@@ -44,6 +44,16 @@ Let me write quickly about myself without bragging:
 ### 🚀 GitHub Streak Stats
 [![GitHub Streak](https://githubstreaksaadat.herokuapp.com?user=Saadat123456&date_format=M%20j%5B%2C%20Y%5D&dates=FF8A20&background=000000&sideNums=000000&currStreakLabel=FF8A20&currStreakNum=FDFF00&sideLabels=000000&border=040101&stroke=FFF)](https://git.io/streak-stats)
 
+<details>
+<summary>More Stats</summary>
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Saadat123456)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saadat123456&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
 ---
 
 ### 📕 Latest Blog Posts
