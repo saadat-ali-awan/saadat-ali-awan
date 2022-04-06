@@ -70,11 +70,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#32](https://github.com/Saadat123456/Space-Travelers-Hub/pull/32) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-2. ❗️ Closed issue [#13](https://github.com/Saadat123456/Space-Travelers-Hub/issues/13) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-3. 💪 Opened PR [#32](https://github.com/Saadat123456/Space-Travelers-Hub/pull/32) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-4. 🎉 Merged PR [#31](https://github.com/Saadat123456/Space-Travelers-Hub/pull/31) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
-5. ❗️ Closed issue [#16](https://github.com/Saadat123456/Space-Travelers-Hub/issues/16) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+1. 💪 Opened PR [#35](https://github.com/Saadat123456/Space-Travelers-Hub/pull/35) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+2. 🎉 Merged PR [#32](https://github.com/Saadat123456/Space-Travelers-Hub/pull/32) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+3. ❗️ Closed issue [#13](https://github.com/Saadat123456/Space-Travelers-Hub/issues/13) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+4. 💪 Opened PR [#32](https://github.com/Saadat123456/Space-Travelers-Hub/pull/32) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
+5. 🎉 Merged PR [#31](https://github.com/Saadat123456/Space-Travelers-Hub/pull/31) in [Saadat123456/Space-Travelers-Hub](https://github.com/Saadat123456/Space-Travelers-Hub)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
