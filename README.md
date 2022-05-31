@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/66) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-2. 🎉 Merged PR [#60](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/60) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-3. ❗️ Closed issue [#27](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/issues/27) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-4. ❗️ Closed issue [#21](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/issues/21) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-5. ❗️ Closed issue [#13](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/issues/13) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+1. 💪 Opened PR [#68](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/68) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+2. 💪 Opened PR [#66](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/66) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+3. 🎉 Merged PR [#60](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/60) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+4. ❗️ Closed issue [#27](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/issues/27) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+5. ❗️ Closed issue [#21](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/issues/21) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
