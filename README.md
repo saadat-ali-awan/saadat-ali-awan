@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saadat123456/saadat_blog/pull/1) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
-2. 💪 Opened PR [#1](https://github.com/Saadat123456/saadat_blog/pull/1) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
-3. 🎉 Merged PR [#87](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/87) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-4. 💪 Opened PR [#87](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/87) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
-5. 💪 Opened PR [#84](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/84) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
+1. 🎉 Merged PR [#2](https://github.com/Saadat123456/saadat_blog/pull/2) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
+2. 💪 Opened PR [#2](https://github.com/Saadat123456/saadat_blog/pull/2) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
+3. 🎉 Merged PR [#1](https://github.com/Saadat123456/saadat_blog/pull/1) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
+4. 💪 Opened PR [#1](https://github.com/Saadat123456/saadat_blog/pull/1) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
+5. 🎉 Merged PR [#87](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby/pull/87) in [AlejandroNeira98/Catalog_MyThings_Ruby](https://github.com/AlejandroNeira98/Catalog_MyThings_Ruby)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
