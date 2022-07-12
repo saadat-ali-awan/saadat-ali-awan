@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Saadat123456/budget-app/pull/1) in [Saadat123456/budget-app](https://github.com/Saadat123456/budget-app)
-2. 💪 Opened PR [#1](https://github.com/Saadat123456/budget-app/pull/1) in [Saadat123456/budget-app](https://github.com/Saadat123456/budget-app)
-3. 🎉 Merged PR [#26](https://github.com/iKuartz/Recipe-App/pull/26) in [iKuartz/Recipe-App](https://github.com/iKuartz/Recipe-App)
-4. 🎉 Merged PR [#25](https://github.com/iKuartz/Recipe-App/pull/25) in [iKuartz/Recipe-App](https://github.com/iKuartz/Recipe-App)
-5. 💪 Opened PR [#25](https://github.com/iKuartz/Recipe-App/pull/25) in [iKuartz/Recipe-App](https://github.com/iKuartz/Recipe-App)
+1. 💪 Opened PR [#1](https://github.com/Saadat123456/hello-rails-react/pull/1) in [Saadat123456/hello-rails-react](https://github.com/Saadat123456/hello-rails-react)
+2. 🎉 Merged PR [#1](https://github.com/Saadat123456/budget-app/pull/1) in [Saadat123456/budget-app](https://github.com/Saadat123456/budget-app)
+3. 💪 Opened PR [#1](https://github.com/Saadat123456/budget-app/pull/1) in [Saadat123456/budget-app](https://github.com/Saadat123456/budget-app)
+4. 🎉 Merged PR [#26](https://github.com/iKuartz/Recipe-App/pull/26) in [iKuartz/Recipe-App](https://github.com/iKuartz/Recipe-App)
+5. 🎉 Merged PR [#25](https://github.com/iKuartz/Recipe-App/pull/25) in [iKuartz/Recipe-App](https://github.com/iKuartz/Recipe-App)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
