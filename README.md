@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Saadat123456/hello-rails-backend/pull/2) in [Saadat123456/hello-rails-backend](https://github.com/Saadat123456/hello-rails-backend)
-2. 💪 Opened PR [#2](https://github.com/Saadat123456/hello-rails-backend/pull/2) in [Saadat123456/hello-rails-backend](https://github.com/Saadat123456/hello-rails-backend)
-3. ❌ Closed PR [#1](https://github.com/Saadat123456/hello-rails-backend/pull/1) in [Saadat123456/hello-rails-backend](https://github.com/Saadat123456/hello-rails-backend)
-4. 💪 Opened PR [#2](https://github.com/Saadat123456/hello-rails-frontend/pull/2) in [Saadat123456/hello-rails-frontend](https://github.com/Saadat123456/hello-rails-frontend)
-5. ❌ Closed PR [#1](https://github.com/Saadat123456/hello-rails-frontend/pull/1) in [Saadat123456/hello-rails-frontend](https://github.com/Saadat123456/hello-rails-frontend)
+1. 🎉 Merged PR [#16](https://github.com/iKuartz/final-rails/pull/16) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+2. 💪 Opened PR [#16](https://github.com/iKuartz/final-rails/pull/16) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+3. 🎉 Merged PR [#15](https://github.com/iKuartz/final-rails/pull/15) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+4. 💪 Opened PR [#15](https://github.com/iKuartz/final-rails/pull/15) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+5. 🎉 Merged PR [#2](https://github.com/Saadat123456/hello-rails-backend/pull/2) in [Saadat123456/hello-rails-backend](https://github.com/Saadat123456/hello-rails-backend)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
