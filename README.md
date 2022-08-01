@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#22](https://github.com/iKuartz/final-rails/pull/22) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
-2. 💪 Opened PR [#17](https://github.com/iKuartz/final-react/pull/17) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
-3. 🎉 Merged PR [#16](https://github.com/iKuartz/final-react/pull/16) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
-4. 💪 Opened PR [#16](https://github.com/iKuartz/final-react/pull/16) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
-5. 🎉 Merged PR [#18](https://github.com/iKuartz/final-rails/pull/18) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+1. 🎉 Merged PR [#22](https://github.com/iKuartz/final-rails/pull/22) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+2. 💪 Opened PR [#22](https://github.com/iKuartz/final-rails/pull/22) in [iKuartz/final-rails](https://github.com/iKuartz/final-rails)
+3. 💪 Opened PR [#17](https://github.com/iKuartz/final-react/pull/17) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
+4. 🎉 Merged PR [#16](https://github.com/iKuartz/final-react/pull/16) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
+5. 💪 Opened PR [#16](https://github.com/iKuartz/final-react/pull/16) in [iKuartz/final-react](https://github.com/iKuartz/final-react)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
