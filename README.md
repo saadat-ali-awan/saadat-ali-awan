@@ -61,7 +61,7 @@ Let me write quickly about myself without bragging:
 <!-- BLOG-POST-LIST:START -->
 - [Mistakes New Developers make &lpar;My Story&rpar;](https://medium.com/@saadatali0202/mistakes-new-developers-make-my-story-75b41bbcd0c2?source=rss-fd74d640aa52------2)
 - [Bitcoin Story &lpar;China’s History of the feud with CryptoCurrency&rpar;](https://medium.com/@saadatali0202/bitcoin-story-chinas-history-of-the-feud-with-cryptocurrency-ec8d0c4246f5?source=rss-fd74d640aa52------2)
-- [Ways to create rounded image or image avatar in flutter](https://medium.com/@saadatali0202/ways-to-create-rounded-image-or-image-avatar-in-flutter-f69534cfd4cc?source=rss-fd74d640aa52------2)
+- [Ways to create a rounded image or image avatar in Flutter](https://medium.com/@saadatali0202/ways-to-create-rounded-image-or-image-avatar-in-flutter-f69534cfd4cc?source=rss-fd74d640aa52------2)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://medium.com/@saadatali0202)
