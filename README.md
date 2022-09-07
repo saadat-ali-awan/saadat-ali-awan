@@ -71,11 +71,11 @@ Let me write quickly about myself without bragging:
 ### :zap: Recent GitHub Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/Saadat123456/Stock-Metrics-Webapp/pull/8) in [Saadat123456/Stock-Metrics-Webapp](https://github.com/Saadat123456/Stock-Metrics-Webapp)
-2. 💪 Opened PR [#8](https://github.com/Saadat123456/Stock-Metrics-Webapp/pull/8) in [Saadat123456/Stock-Metrics-Webapp](https://github.com/Saadat123456/Stock-Metrics-Webapp)
-3. 🎉 Merged PR [#1](https://github.com/Saadat123456/Ruby_Enumerator/pull/1) in [Saadat123456/Ruby_Enumerator](https://github.com/Saadat123456/Ruby_Enumerator)
-4. 🎉 Merged PR [#11](https://github.com/Saadat123456/saadat_blog/pull/11) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
-5. 💪 Opened PR [#11](https://github.com/Saadat123456/saadat_blog/pull/11) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
+1. ❗️ Opened issue [#5282](https://github.com/EddieHubCommunity/support/issues/5282) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+2. 🎉 Merged PR [#8](https://github.com/Saadat123456/Stock-Metrics-Webapp/pull/8) in [Saadat123456/Stock-Metrics-Webapp](https://github.com/Saadat123456/Stock-Metrics-Webapp)
+3. 💪 Opened PR [#8](https://github.com/Saadat123456/Stock-Metrics-Webapp/pull/8) in [Saadat123456/Stock-Metrics-Webapp](https://github.com/Saadat123456/Stock-Metrics-Webapp)
+4. 🎉 Merged PR [#1](https://github.com/Saadat123456/Ruby_Enumerator/pull/1) in [Saadat123456/Ruby_Enumerator](https://github.com/Saadat123456/Ruby_Enumerator)
+5. 🎉 Merged PR [#11](https://github.com/Saadat123456/saadat_blog/pull/11) in [Saadat123456/saadat_blog](https://github.com/Saadat123456/saadat_blog)
 <!--END_SECTION:activity-->
 
 # Point To Ponder 
