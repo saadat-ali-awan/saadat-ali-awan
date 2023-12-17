@@ -59,6 +59,7 @@ Let me write quickly about myself without bragging:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Zero to Hero: The Journey of Becoming a Successful Software Developer](https://medium.com/@saadatali0202/zero-to-hero-the-journey-of-becoming-a-successful-software-developer-dbadc2e2abaa?source=rss-fd74d640aa52------2)
 - [Mistakes New Developers make &lpar;My Story&rpar;](https://medium.com/@saadatali0202/mistakes-new-developers-make-my-story-75b41bbcd0c2?source=rss-fd74d640aa52------2)
 - [Bitcoin Story &lpar;China’s History of the feud with CryptoCurrency&rpar;](https://medium.com/@saadatali0202/bitcoin-story-chinas-history-of-the-feud-with-cryptocurrency-ec8d0c4246f5?source=rss-fd74d640aa52------2)
 - [Ways to create a rounded image or image avatar in Flutter](https://medium.com/@saadatali0202/ways-to-create-rounded-image-or-image-avatar-in-flutter-f69534cfd4cc?source=rss-fd74d640aa52------2)
