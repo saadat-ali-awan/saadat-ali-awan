@@ -1,5 +1,5 @@
 # Hey, I'm Saadat 👋
-![Profile Views](https://komarev.com/ghpvc/?username=Saadat123456&color=brightgreen&style=plastic)
+![Profile Views](https://komarev.com/ghpvc/?username=saadat-ali-awan&color=brightgreen&style=plastic)
 <div style="width: 100%;">
  <img src='images/banner2.svg' alt='banner' style="width: 100%;"/>
 </div>
@@ -37,20 +37,20 @@ Let me write quickly about myself without bragging:
 
 ### :zap: GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Saadat123456&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/Saadat123456)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saadat-ali-awan&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&title_color=FF6347&text_color=7D5EA9&icon_color=FF6347&border_color=7D5EA9&border_radius=10)](https://github.com/saadat-ali-awan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Saadat123456&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Love%20To%20Play%20With&border_color=7D5EA9&border_radius=10)](https://github.com/Saadat123456)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadat-ali-awan&langs_count=10&layout=compact&title_color=FF6347&text_color=7D5EA9&custom_title=Love%20To%20Play%20With&border_color=7D5EA9&border_radius=10)](https://github.com/saadat-ali-awan)
 
 ### 🚀 GitHub Streak Stats
-[![GitHub Streak](https://githubstreaksaadat.herokuapp.com?user=Saadat123456&date_format=M%20j%5B%2C%20Y%5D&dates=FF8A20&background=000000&sideNums=000000&currStreakLabel=FF8A20&currStreakNum=FDFF00&sideLabels=000000&border=040101&stroke=FFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://githubstreaksaadat.herokuapp.com?user=saadat-ali-awan&date_format=M%20j%5B%2C%20Y%5D&dates=FF8A20&background=000000&sideNums=000000&currStreakLabel=FF8A20&currStreakNum=FDFF00&sideLabels=000000&border=040101&stroke=FFF)](https://git.io/streak-stats)
 
 <details>
 <summary>More Stats</summary>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Saadat123456)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=saadat-ali-awan)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Saadat123456&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=saadat-ali-awan&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </details>
 
@@ -86,7 +86,7 @@ Last Updated: Monday, August 12th, 2024, 1:37:04 PM
 # Point To Ponder 
 <div align='center'><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card"/></div>
 
-## Let's Share thoughts on [![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSaadat123456&screen_name=Saadat02021999)
+## Let's Share thoughts on [![Twitter Follow](https://img.shields.io/twitter/follow/Saadat02021999?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fsaadat-ali-awan&screen_name=Saadat02021999)
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
