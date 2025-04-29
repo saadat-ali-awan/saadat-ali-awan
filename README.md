@@ -19,7 +19,7 @@ Let me write quickly about myself without bragging:
 - 🔑 Love Blockchain especially Etherium and Vechain
 
  ## Tech Stack :hammer_and_wrench::
- - 👉 React.js | Redux | node.js | SQL | Mongo
+ - 👉 React.js | Redux | node.js | SQL | Mongo | Next.js | Nest.js
  - 👉 Android | Flutter | Java/Kotlin | SQLite
  - 👉 Unity | C# | node.js
 
